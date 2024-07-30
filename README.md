@@ -1,2 +1,2 @@
 # Misc-Java-Projects
-For Java projects that I feel aren't substantial enough to warrant a repo of their own.
+For various projects made in Java. From me just testing things, to small projects that I feel don't need their own repo.
